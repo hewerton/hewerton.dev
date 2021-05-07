@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `hewerton.dev`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Hewerton Oliveira`,
+      summary: `vivo e trabalho em Concórdia/SC ensinando e construindo software.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://hewerton.dev`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `hewerton_dev`,
     },
   },
   plugins: [
