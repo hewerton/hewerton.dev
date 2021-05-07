@@ -3,7 +3,7 @@ module.exports = {
     title: `hewerton.dev`,
     author: {
       name: `Hewerton Oliveira`,
-      summary: `vivo e trabalho em Concórdia/SC ensinando e construindo software.`,
+      summary: ` que vive e trabalha em Concórdia/SC ensinando e construindo software.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://hewerton.dev`,
